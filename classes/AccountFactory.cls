@@ -29,6 +29,8 @@ public with sharing class AccountFactory {
         }
         return accounts;
     }
+public void Testing(){
+}
 
     /**
      * Creates and insert Account records.
