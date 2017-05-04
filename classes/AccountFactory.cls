@@ -31,8 +31,11 @@ public with sharing class AccountFactory {
     }
 
 
+<<<<<<< HEAD
 public void Testing(){
 }
+=======
+>>>>>>> Test1
  
     /**
      * Creates and insert Account records.
