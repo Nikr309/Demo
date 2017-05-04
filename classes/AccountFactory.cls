@@ -31,7 +31,7 @@ public with sharing class AccountFactory {
     }
 
 
-public void Deploying(){
+public void Testing(){
 }
  
     /**
