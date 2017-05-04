@@ -42,4 +42,6 @@ public with sharing class AddRelatedRecordController {
             insert oppList;
         }
     }
+public void Deploy(){
+}
 }
