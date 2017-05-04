@@ -31,8 +31,6 @@ public with sharing class AccountFactory {
     }
 
 
-public void Deploying(){
-}
  
     /**
      * Creates and insert Account records.
